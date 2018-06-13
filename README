@@ -1,7 +1,7 @@
-Litecoin Cash Seeder
+XSN Seeder
 ====================
 
-litecoincash-seeder is a crawler for the Litecoin Cash network, which 
+xsn-seeder is a crawler for the XSN Core network, which
 exposes a list of reliable nodes via a built-in DNS server, or instead
 just generates that list to push to a remote CloudFlare server.
 
